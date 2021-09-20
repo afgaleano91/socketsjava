@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TSockets:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TSockets_jar</output-path>
+    <root id="archive" name="TSockets.jar">
+      <element id="module-output" name="TSockets" />
+    </root>
+  </artifact>
+</component>
